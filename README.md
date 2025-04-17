@@ -28,7 +28,7 @@ Aplikasi manajemen stok barang berbasis web sederhana, ditujukan untuk memudahka
 4. Import file SQL (jika tersedia) ke dalam database tersebut.
 5. Jalankan via browser:
 
-
+Referensi dari Youtube
 
 ## 📁 Struktur Folder
 
